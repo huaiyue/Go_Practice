@@ -1,3 +1,7 @@
+/*
+随机生成0、1
+*/
+
 package main
 
 import "fmt"
